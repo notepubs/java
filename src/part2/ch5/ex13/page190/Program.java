@@ -1,5 +1,3 @@
-package part2.ch5.ex13.page190;
-
 import java.io.IOException;
 
 class Program {

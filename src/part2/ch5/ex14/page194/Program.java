@@ -1,5 +1,3 @@
-package part2.ch5.ex14.page194;
-
 import java.io.IOException;
 import java.util.Scanner;
 

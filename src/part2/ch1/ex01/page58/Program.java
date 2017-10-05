@@ -1,5 +1,3 @@
-package part2.ch1.ex01.page58;
-
 kor = 60
 eng = 70
 math = 80

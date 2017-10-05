@@ -1,5 +1,3 @@
-package part2.ch4.ex08.page132;
-
 class Program {
 	public static void main(String[] args) {
 

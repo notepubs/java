@@ -1,5 +1,3 @@
-package part2.ch1.ex05.page68;
-
 class Program{	
 	public static void main(String[] args) {
 		int kor;

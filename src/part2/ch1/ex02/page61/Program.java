@@ -1,5 +1,3 @@
-package part2.ch1.ex02.page61;
-
 public static void main(String[] args) {
 	kor = 60
 	eng = 70
